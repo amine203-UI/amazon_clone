@@ -1,4 +1,4 @@
-# Build Full-ECommerce Website By Next.js 15 & MongoDB
+#  Full-ECommerce Website - Next.js 15 
 
 |                |                                  |
 | -------------- | -------------------------------- |
@@ -71,8 +71,3 @@ A powerful admin dashboard with data visualizations and full control over invent
    - Enter admin email "admin@example.com" and password "123456" and click Sign In
 
 
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer 
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
